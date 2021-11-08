@@ -1,0 +1,5 @@
+﻿  zadatak2.cpp
+C:\Users\ivoda\Desktop\OP_vjezba03\zadatak2\vector_functions.cpp(7,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ivoda\Desktop\OP_vjezba03\zadatak2\zadatak2.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ivoda\Desktop\OP_vjezba03\zadatak2\zadatak2.cpp(40,14): warning C4018: '<': signed/unsigned mismatch
+  zadatak2.vcxproj -> C:\Users\ivoda\Desktop\OP_vjezba03\zadatak1\Debug\zadatak2.exe

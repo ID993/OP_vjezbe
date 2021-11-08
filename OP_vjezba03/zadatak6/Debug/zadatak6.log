@@ -1,0 +1,4 @@
+﻿  zadatak6.cpp
+C:\Users\ivoda\Desktop\OP_vjezba03\zadatak6\zadatak6.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ivoda\Desktop\OP_vjezba03\zadatak6\zadatak6.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  zadatak6.vcxproj -> C:\Users\ivoda\Desktop\OP_vjezba03\zadatak1\Debug\zadatak6.exe
