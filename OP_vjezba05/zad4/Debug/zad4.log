@@ -1,0 +1,4 @@
+﻿  zad4.cpp
+C:\Users\ivoda\Desktop\OP_vjezba05\zad4\zad4.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ivoda\Desktop\OP_vjezba05\zad4\zad4.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+  zad4.vcxproj -> C:\Users\ivoda\desktop\OP_vjezba05\zad1\Debug\zad4.exe
