@@ -1,0 +1,3 @@
+﻿  hangman.cpp
+C:\Users\ivoda\Desktop\OP_vjezba06\hangman\HangmanModel.h(20,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hangman.vcxproj -> C:\Users\ivoda\desktop\OP_vjezba06\hangman\Debug\hangman.exe
