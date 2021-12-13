@@ -9,7 +9,7 @@ int main()
     HangmanController hc;
     HangmanView hv;
     hm.get_movie(hm.movie);
-    cout << hm.movie << '\n';
+    //cout << hm.movie << '\n';
     hm.get_guess_movie(hm.movie, hm.guess_movie);
     cout << hm.guess_movie << '\n';
     while (!hc.is_game_over(hm.movie, hm.guess_movie, hm.lives))
@@ -23,14 +23,15 @@ int main()
         cout << "============" << '\n';
         hv.display_Hangman(hm.lives);
         cout << "============" << '\n';
-        Sleep(3000);
-        system("cls");
+        //Sleep(4000);
+        //system("cls");
         if (hm.movie == hm.guess_movie)
         {
             cout << "============" << '\n';
             hv.display_Hangman(hm.lives);
             cout << "============" << '\n';
             cout << "CONGRATULATIONS! YOU WON!" << endl;
+            cout << "The answer is: " << hm.movie << endl;
             break;
         }
         else if (hm.lives <= 0)
@@ -39,6 +40,7 @@ int main()
             hv.display_Hangman(hm.lives);
             cout << "============" << '\n';
             cout << "SORRY! YOU LOST!" << endl;
+            cout << "The answer is: " << hm.movie << endl;
             break;
         }
     }

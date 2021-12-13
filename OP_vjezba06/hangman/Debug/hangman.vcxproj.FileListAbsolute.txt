@@ -1,1 +1,2 @@
 C:\Users\ivoda\Desktop\OP_vjezba06\hangman\Debug\hangman.exe
+C:\Users\ivoda\Desktop\objektno\OP_vjezba06\hangman\Debug\hangman.exe
