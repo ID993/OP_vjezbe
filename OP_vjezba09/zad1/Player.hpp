@@ -20,7 +20,7 @@ public:
 	int move(int j) {
 		return 0;
 	}
-
+	// ove dvije funkcije bi se treble overrideati u inheritanim klasama ali cini se da to ne funkcionira u kodu
 
 	int& get_Score()
 	{
@@ -94,8 +94,8 @@ class Computer : public Player {
 public:
 	void hand()
 	{
-		int r;
-		int n = 3;
+		int r; // random
+		int n = 3; // broj kovanica
 		vector<int> coins{ 1, 2, 5 };
 		for (size_t i = 0; i < 3; i++)
 		{
